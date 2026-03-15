@@ -6,7 +6,7 @@ This Paper plugin adds chat markers to [BlueMap](https://github.com/BlueMap-Mine
 
 ![a screenshot of BlueMap with a message displayed on the map](.github/readme_assets/font_size_1.png)
 
-Compatible with Paper 1.13+, just like BlueMap itself.
+Compatible with Paper 1.13+, and with Folia on supported Minecraft versions.
 
 You can customise the style of the markers with the [`textStyle.css`](src/main/resources/textStyle.css) file in the config directory.\
 To reload it, just reload BlueMap itself with `/bluemap reload`.
